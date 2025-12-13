@@ -202,3 +202,15 @@ Exact insights will depend on slicers and time periods, but the dashboard is des
 
 These insights allow policymakers to **monitor affordability**, identify **pressure points**, and support discussions on **supply, grants and policy interventions** in the HDB resale market.
 
+## 5. How to Open the Dashboard
+
+- The main report file is: `HDB_Resale_Dashboard.pbix`
+- It was created using **Microsoft Power BI Desktop** (version 2023 or later).
+- To view or edit the report:
+  1. Install **Power BI Desktop** (free) from the Microsoft Store or the official Power BI website.
+  2. Open Power BI Desktop.
+  3. Go to **File → Open** and select `HDB_Resale_Dashboard.pbix`.
+
+If you do not have Power BI installed, you can still review the project structure and screenshots in this repository and the description within this README.
+
+
